@@ -31,8 +31,8 @@ Track consultations, hospitalizations, and medical procedures
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/healthtrack-pro.git
-   cd healthtrack-pro
+   git clone https://github.com/YoussefLouzi/HealthTrack.git
+   cd healthtrack
    ```
 
 2. **Set up PostgreSQL Database**
@@ -176,11 +176,6 @@ The application includes sample data:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Authors
-
-- **Youssef Louzi** - Lead Developer
-- **Mehdi Aboulouafa** - Developer
-- **Abdellah Ezzari** - Developer
 
 ## Acknowledgments
 
